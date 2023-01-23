@@ -18,5 +18,5 @@
 | [Прогнозирвоание количества заказов такси](https://github.com/kuzmina2022/Yandex_practicum_projects/tree/main/Прогнозирование%20количества%20заказов%20такси%20на%20следующий%20час)|Разработка системы предсказания объема заказа | *Pandas, NumPy, Matplotlib, Seaborn, statsmodels, Scikit-learn, LightGBM* |
 | [Обучение модели классификации комментариев](https://github.com/kuzmina2022/Yandex_practicum_projects/tree/main/Обучение%20модели%20классификации%20комментариев) | Определение токсичности комментариев | *Pandas, spacy, re, nltk, tf-idf, Scikit-learn, LightGBM* |
 | [Обработка фотографий покупателя](https://github.com/kuzmina2022/Yandex_practicum_projects/tree/main/Обработка%20фотографий%20покупателя)|Определение возраста по фотографии | *Pandas, Keras* |
-|[Финальный проект. Анализ БД](https://github.com/demoniksamael/Practikum_projects/tree/main/Финальный%20проект/SQL-%20запросы%20к%20БД)| С помощью запросов к БД выявить интересующуюу заказчика информацию | *Sqlalchemy , PostgreSQL* |
+|[Финальный проект. Прогноз оттока клиентов телеком компании](https://github.com/kuzmina2022/Yandex_practicum_projects/tree/main/Прогноз%20оттока%20клиентов%20телеком%20компании)| Спрогнозирвоать отток клиентов из телеком компании| *Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, CatBoost, LightGBM* |
 
