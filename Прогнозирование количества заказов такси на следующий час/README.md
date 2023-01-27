@@ -18,7 +18,6 @@
 - sklearn.metrics.**mean_squared_error**
 - sklearn.linear_model.**LinearRegression**
 - sklearn.ensemble.**RandomForestRegressor**
-- catboost.**CatBoostRegressor**
 - **lightgbm**
 
 ## Общий вывод
